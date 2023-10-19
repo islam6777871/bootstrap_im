@@ -1,0 +1,28 @@
+.navbar{
+    justify-content: space-between !important;
+    background-color: #105592 !important; 
+}
+.container-fluid{
+    background-color: #105592;
+
+   justify-content: space-between !important;
+}
+.container{
+   display: flex;
+   justify-content: space-between;
+    height: 500px;
+    background-color: #105592;
+    width: 1200px;
+    max-width: 1200px;
+}
+.hero_title{
+    justify-content: center;
+    align-items:center;
+    margin-top: 70px;
+    color: #fff;
+    
+}
+.para{
+    font-size: 20px;
+    margin-top: 25px;
+}
